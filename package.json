@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start:dev": "nodemon",
+    "test": "echo "Test soon",
     "build": "tsc",
     "start": "npm run build && node build/index.js",
     "lint-and-fix": "eslint . --ext .ts --fix"
