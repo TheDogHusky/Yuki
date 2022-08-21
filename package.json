@@ -36,7 +36,7 @@
     "@sentry/tracing": "^7.11.1",
     "@types/mongoose": "^5.11.97",
     "chalk": "^2.4.2",
-    "discord.js": "^14.1.2",
+    "discord.js": "^14.2.0",
     "fs": "^0.0.1-security",
     "moment": "^2.29.4",
     "moment-timezone": "^0.5.34",
