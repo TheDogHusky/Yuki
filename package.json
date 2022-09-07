@@ -26,7 +26,7 @@
     "nodemon": "^2.0.15",
     "prettier": "^2.5.1",
     "ts-node": "^10.4.0",
-    "typescript": "^4.5.5"
+    "typescript": "^4.8.2"
   },
   "dependencies": {
     "@leixydev/logger": "^1.0.0",
