@@ -33,7 +33,7 @@
     "@ptkdev/logger": "^1.8.0",
     "@sentry/browser": "^7.21.1",
     "@sentry/node": "^7.21.1",
-    "@sentry/tracing": "^7.21.1",
+    "@sentry/tracing": "^7.25.0",
     "@types/mongoose": "^5.11.97",
     "chalk": "^5.1.2",
     "discord.js": "^14.6.0",
