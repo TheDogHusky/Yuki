@@ -31,7 +31,7 @@
   "dependencies": {
     "@leixydev/logger": "^1.0.0",
     "@ptkdev/logger": "^1.8.0",
-    "@sentry/browser": "^7.27.0",
+    "@sentry/browser": "^7.28.1",
     "@sentry/node": "^7.27.0",
     "@sentry/tracing": "^7.27.0",
     "@types/mongoose": "^5.11.97",
