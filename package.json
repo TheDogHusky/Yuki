@@ -39,7 +39,7 @@
     "discord.js": "^14.8.0",
     "fs": "^0.0.1-security",
     "moment": "^2.29.4",
-    "moment-timezone": "^0.5.41",
+    "moment-timezone": "^0.5.42",
     "mongoose": "^7.0.3"
   }
 }
