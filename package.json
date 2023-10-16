@@ -32,7 +32,7 @@
     "@leixydev/logger": "^1.0.0",
     "@ptkdev/logger": "^1.8.0",
     "@sentry/browser": "^7.55.2",
-    "@sentry/node": "^7.54.0",
+    "@sentry/node": "^7.74.0",
     "@sentry/tracing": "^7.55.2",
     "@types/mongoose": "^5.11.97",
     "chalk": "^5.2.0",
